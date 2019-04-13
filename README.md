@@ -2,4 +2,4 @@
 Bienvenido a mi página de cuentos breves.
 
 ## Cuentos
-[Doble Mente](/doble-mente/)
+[Doble Mente](/cuentos/doble-mente/)
