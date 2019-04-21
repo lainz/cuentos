@@ -10,6 +10,14 @@ Bienvenido a mi página de cuentos breves.
 
 *La más sutil vibración hace eco en todas partes. Se enteran las 8 estrellas negras de lo que pasó aquí. Algo cayó en la red.*
 
-[En el camino empedrado encontré una moneda](/cuentos/en-el-camino-empedrado-encontre-una-moneda)
+[En el camino empedrado encontré una moneda](/cuentos/en-el-camino-empedrado-encontre-una-moneda/)
 
 *Ya pasaron diez años de aquel misterioso día y lo recuerdo como si fuera hoy. Por el suelo iba rodando una moneda, golpeó mi zapato izquierdo y se detuvo justo en frente de mi.*
+
+[Mismo Tiempo](/cuentos/mismo-tiempo/)
+
+*En la ciudad es fácil perderse muchos detalles, hay tanto para ver que no alcanza la vista de la persona más atenta para verlo todo. Sentado en un banco de la plaza, me fui quedando solo mientras anochecía.*
+
+[El Universo Holograma](/cuentos/el-universo-holograma/)
+
+*Estaba durmiendo y en un sueño andaba por las calles de la ciudad cubierta de lluvia. Andaba, pero no caminando, sino volando sobre los charcos y los pocos vehículos que circulaban de noche.*
