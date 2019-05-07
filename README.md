@@ -6,6 +6,10 @@ Bienvenido a mi página de cuentos breves.
 
 *La lágrima de té se derramó sobre el mantel, mientras el resto chorreaba por el suelo. Que lástima, mi té verde. Todo por culpa de la doble mente.*
 
+[Entre reflejos y sombras](/cuentos/entre-reflejos-y-sombras/)
+
+*Salto en el tiempo mental, pasado o futuro, no existe el presente. Sombras de lo que fui, reflejos de lo que seré. En el medio el vacío, que se llena de las cosas que hacen posibles los dos extremos.*
+
 [Entre la vida y la muerte](/cuentos/entre-la-vida-y-la-muerte/)
 
 *La más sutil vibración hace eco en todas partes. Se enteran las 8 estrellas negras de lo que pasó aquí. Algo cayó en la red.*
