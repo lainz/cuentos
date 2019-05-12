@@ -12,7 +12,11 @@ Bienvenido a mi página de cuentos breves.
 
 [Las colmenas](/cuentos/las-colmenas/)
 
-*Dentro de un sueño, que no es, el hilo de algodón se desprendió de mi pullover al enredarse con algo que no recuerdo bien.*
+*Dentro de un sueño, que no es, el hilo de algodón se desprendió de mi pullover al enredarse con algo que no recuerdo bien. Un hecho inevitable según mi entender, ya que lo uso cuando hace frío y soy un tanto distraído. Así como chocarme con una puerta, una silla o una pared, mientras estoy pensando en no se qué.*
+
+[Las cadenas del tiempo](/cuentos/las-cadenas-del-tiempo/)
+
+*Cada instante esta atado a otro instante. Cada futuro a su pasado y cada pasado a su futuro. La caminata al atardecer con el despertar de una nueva vida. ¿Para que correr?*
 
 [Entre la vida y la muerte](/cuentos/entre-la-vida-y-la-muerte/)
 
