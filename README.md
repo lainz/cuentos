@@ -10,6 +10,10 @@ Bienvenido a mi página de cuentos breves.
 
 *Salto en el tiempo mental, pasado o futuro, no existe el presente. Sombras de lo que fui, reflejos de lo que seré. En el medio el vacío, que se llena de las cosas que hacen posibles los dos extremos.*
 
+[Las colmenas](/cuentos/las-colmenas/)
+
+*Dentro de un sueño, que no es, el hilo de algodón se desprendió de mi pullover al enredarse con algo que no recuerdo bien.*
+
 [Entre la vida y la muerte](/cuentos/entre-la-vida-y-la-muerte/)
 
 *La más sutil vibración hace eco en todas partes. Se enteran las 8 estrellas negras de lo que pasó aquí. Algo cayó en la red.*
