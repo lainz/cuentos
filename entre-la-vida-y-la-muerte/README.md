@@ -1,6 +1,8 @@
 # Entre la vida y la muerte
 Por Leandro Diaz (Lainz)
 
+![Entre la vida y la muerte](https://raw.githubusercontent.com/lainz/cuentos/master/entre-la-vida-y-la-muerte/imagen.png "Entre la vida y la muerte")
+
 La más sutil vibración hace eco en todas partes. Se enteran las 8 estrellas negras de lo que pasó aquí. Algo cayó en la red. La sangre al nacer se tornó azul, la sangre de aquella que espera paciente y todo lo controla a su alrededor. Las redes parecen eternas, descansan sobre la grilla infinita que las sostiene.
 
  – Aún sin oídos puedo escucharte – le dijo aquella a su invitado.
