@@ -1,6 +1,8 @@
 # Doble Mente
 Por Leandro Diaz (Lainz)
 
+![Doble Mente](https://raw.githubusercontent.com/lainz/cuentos/master/doble-mente/imagen.png "Doble Mente")
+
 La lágrima de té se derramó sobre el mantel, mientras el resto chorreaba por el suelo. Que lástima, mi té verde. Todo por culpa de la doble mente.
 
 Antes de las 7 de la mañana sonaba el despertador y lo corrí unos 15 minutos más para despertarme poco a poco, como de costumbre. Ya para la segunda vez que sonaba, había agarrado el celular para ver la hora y faltaba un minuto, así que apagué la alarma. Mientras servía el agua caliente en mi taza de porcelana, con el saquito de té verde, me acordé de haber vivido ese momento antes.
