@@ -1,6 +1,8 @@
 # El Universo Holograma
 Por Leandro Diaz (Lainz)
 
+![El Universo Holograma](https://raw.githubusercontent.com/lainz/cuentos/master/el-universo-holograma/imagen.png "El Universo Holograma")
+
 Estaba durmiendo y en un sueño andaba por las calles de la ciudad cubierta de lluvia. Andaba, pero no caminando, sino volando sobre los charcos y los pocos vehículos que circulaban de noche. Pero volé tanto que salí de este universo, traspasando una pequeña hendidura en una máquina de hologramas y salí hasta el living de una casa, como una insignificante luz, casi invisible. Anduve por un jardín de pastos oscuros y allí también era de noche. Di unas vueltas por el lugar hasta que desperté.
 
 El universo es un holograma, este holograma está en el living de una casa. La casa tiene unos ventanales grandes y un jardín con pasto verde bien oscuro. El holograma está dentro de un dodecaedro de acero pintado de negro, con cada lado cubierto por un vidrio que no deja salir la luz. Hay una computadora pequeña debajo que ejecuta el holograma.
