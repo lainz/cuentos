@@ -2,7 +2,116 @@
 
 Leandro Oscar Ezequiel Díaz
 
+# Índice - Primera Parte
 
+1. [Relatos](#relatos)
+2. [Mirando por la puerta mosquitero](#mirando-por-la-puerta-mosquitero)
+3. [El colibrí](#el-colibrí)
+4. [Estrellita](#estrellita)
+5. [Trufas](#trufas)
+6. [Paz](#paz)
+7. [Encomienda](#encomienda)
+8. [Una tarde maravillosa](#una-tarde-maravillosa)
+9. [Los trenes](#los-trenes)
+10. [En moto](#en-moto)
+11. [Caminata](#caminata)
+12. [Caminito de ida y vuelta](#caminito-de-ida-y-vuelta)
+13. [Trenes](#trenes)
+14. [El sueño](#el-sueño)
+15. [El despertar](#el-despertar)
+16. [El colectivo](#el-colectivo)
+17. [Perdido](#perdido)
+18. [En medio de la nada](#en-medio-de-la-nada)
+19. [Cruzados](#cruzados)
+20. [Mirar por la ventana](#mirar-por-la-ventana)
+21. [Casa](#casa)
+22. [Los caminos](#los-caminos)
+23. [Sinfonía de ciudad](#sinfonía-de-ciudad)
+24. [El progreso](#el-progreso)
+25. [Recuerdos](#recuerdos)
+26. [Algo diferente](#algo-diferente)
+27. [Frio](#frio)
+28. [Calor](#calor)
+29. [Pendiente](#pendiente)
+30. [Despierta](#despierta)
+31. [Color](#color)
+32. [Andar de a pie](#andar-de-a-pie)
+
+# Índice - Segunda Parte
+
+1. [Shika](#shika)
+2. [Shikans](#shikans)
+3. [Sociedad caminante](#sociedad-caminante)
+4. [Vereda](#vereda)
+5. [Nostalgia](#nostalgia)
+6. [Nueva vereda](#nueva-vereda)
+7. [Biosoftware](#biosoftware)
+8. [Representando](#representando)
+9. [Al Viajero](#al-viajero)
+10. [Noche de verano](#noche-de-verano)
+11. [Mariposa blanca](#mariposa-blanca)
+12. [Al pasar](#al-pasar)
+13. [Mares](#mares)
+14. [Portal](#portal)
+15. [Viajera](#viajera)
+16. [Viajera en el mar](#viajera-en-el-mar)
+17. [Glaciar](#glaciar)
+18. [Frio lugar](#frio-lugar)
+19. [Dragón](#dragón)
+20. [De vuelta](#de-vuelta)
+21. [De vuelta a casa](#de-vuelta-a-casa)
+22. [Gota de agua](#gota-de-agua)
+23. [Nuevo H.O.G.A.R](#nuevo-hogar)
+24. [A despertarse](#a-despertarse)
+25. [Viajera del tiempo](#viajera-del-tiempo)
+26. [Gran reseteo](#gran-reseteo)
+27. [Recuerdos olvidados](#recuerdos-olvidados)
+28. [Perdidos](#perdidos)
+29. [Soledad](#soledad)
+30. [Nuevo día](#nuevo-día)
+31. [Un día](#un-día)
+32. [Tiempos](#tiempos)
+33. [Último Shikan](#ultimo-shikan)
+34. [Joven creativo](#joven-creativo)
+35. [Viajero](#viajero)
+36. [Ruka](#ruka)
+37. [Awki](#awki)
+38. [Bibliotecario](#bibliotecario)
+39. [Conductor](#conductor)
+40. [Shika (2)](#shika-2)
+41. [Shikans (2)](#shikans-2)
+42. [Comienzo](#comienzo)
+
+# Índice - Tercera Parte
+
+43. [Cielos](#cielos)
+44. [Tornado](#tornado)
+45. [Nieve](#nieve)
+46. [Viajero (2)](#viajero-2)
+47. [Viajera (2)](#viajera-2)
+48. [Portales](#portales)
+49. [Historia](#historia)
+50. [Biblioteca](#biblioteca)
+51. [Encuentro plateado](#encuentro-plateado)
+52. [Plateado](#plateado)
+53. [Encuentro pasado](#encuentro-pasado)
+54. [Viajes](#viajes)
+55. [Aves](#aves)
+56. [Bloques](#bloques)
+57. [Espacios](#espacios)
+58. [Estantes](#estantes)
+59. [Casa](#casa)
+60. [Relatos](#relatos)
+61. [La luna](#la-luna)
+62. [Nueva vida](#nueva-vida)
+63. [Viaje en el tiempo](#viaje-en-el-tiempo)
+64. [Atardecer](#atardecer)
+65. [El atardecer del tiempo](#el-atardecer-del-tiempo)
+66. [Sucesos](#sucesos)
+67. [Awki (2)](#awki-2)
+68. [Vuelta](#vuelta)
+69. [Historia](#historia)
+70. [Anochecer](#anochecer)
 
 **Prefacio**
 
@@ -1160,13 +1269,13 @@ Estaba por terminar de leer la vida y legado de Conductor ¿Qué más vas a pode
 
 Las máquinas son… Las máquinas… Las… …
 
-## Shika
+## Shika (2)
 
 Cada segundo que pasa temo más lo que pueda ocurrir. Este Shikan que ya puedo ver no reacciona a nada. Mi bloque se dirige a aquella gran puerta, no sé que habrá. Los demás bloques ya no puedo ver. Mi bloque se detiene. Viene a mi mente el recuerdo de mi último dibujo, un Shikan. Ya no recuerdo que clase de Shikan era, creo que era el más especial de todos.
 
 En ese momento, el Shikan se despierta y cierra esa gran puerta que estaba delante de mí. Ahora puedo salir del bloque. Puedo caminar sobre este eterno camino plateado sobre el que no hay nada. Ya no tengo dudas sobre nada ya que no hay nada a mí alrededor. Solo lo que yo imagine, ni siquiera se hace realidad, creo que estoy fuera de Conductia. El Shikan comienza a hablarme, pero es con el joven creativo con quien hablo, este es el Shikan parlanchín ¡Claro! Todos los Shikans que tenía en mi bolsillo eran parlanchines.
 
-## Shikans
+## Shikans (2)
 
 Tengo un Shikan en el bolsillo,
 
@@ -1266,7 +1375,7 @@ Cubriendo están el pasto,
 
 Y todos los árboles.
 
-## Viajero
+## Viajero (2)
 
 Bajo la tierra me desplazo calle a calle en un vagón de madera lleno de detalles. Pintado todo a mano, asientos de madera, ventanitas de vidrio, hoy viajo sentado, salgo y a subir las escaleras.
 
@@ -1274,7 +1383,7 @@ Empinadas como el pico de una montaña, infinitas como las estrellas, sin pasama
 
 Serena está la plaza, la atravieso contemplándola, flores y jardines, libros en mil mesas. Faroles que iluminan las grandes palmeras.
 
-## Viajera
+## Viajera (2)
 
 Plateado el suelo que piso, ni un detalle que se destaque. Horizonte infinito, delante mío puerta grande. Se desvanece el cerrojo, se desarma en partes. La puerta se abre, camino hacia adelante.
 
@@ -1628,7 +1737,7 @@ En la biblioteca aparecieron la anciana y el historiador, además de Conductor.
 
 Allí estaban todos confundidos, salvo el historiador, Awki, que comenzó a hablar.
 
-## Awki
+## Awki (2)
 
 Entre poetas aprendí. La vida está repleta de interpretaciones. El límite de las máquinas, de la gran máquina, fue limitar al máximo la realidad.
 
