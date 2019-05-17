@@ -1,7 +1,11 @@
 # Cuentos de Lainz
-Bienvenido a mi página de cuentos breves.
+Bienvenido a mi página de cuentos breves... y no tan breves.
+
+Todos los derechos reservados. Si quieres compartir los cuentos envía el link, es de facil lectura en PC y en dispositivos móviles. Si quieres contactarte conmigo regístrate en GitHub y deja un comentario en el siguiente enlace: [Discusión sobre Cuentos de Lainz](https://github.com/lainz/cuentos/issues).
 
 ## Cuentos
+*Algunos de estos cuentos aparecen mas abajo en los compilados y algunos que me gustan mucho en mas de una ocasión.*
+
 [Doble Mente](/cuentos/doble-mente/)
 
 *La lágrima de té se derramó sobre el mantel, mientras el resto chorreaba por el suelo. Que lástima, mi té verde. Todo por culpa de la doble mente.*
@@ -33,3 +37,20 @@ Bienvenido a mi página de cuentos breves.
 [El Universo Holograma](/cuentos/el-universo-holograma/)
 
 *Estaba durmiendo y en un sueño andaba por las calles de la ciudad cubierta de lluvia. Andaba, pero no caminando, sino volando sobre los charcos y los pocos vehículos que circulaban de noche.*
+
+## Libros y Compilados
+[Cuentos del Viajero del Tiempo](/cuentos/cuentos-del-viajero-del-tiempo/)
+
+*Mis primeros escritos. Cuentos de superación y una mini-ficción para acompañarlos.*
+
+[Tréboles](/cuentos/treboles/)
+
+*Habla de la vida de Lainz (el personaje) entre la vida real y un mundo de sueños.*
+
+[La Ciudad de los Cuentos](/cuentos/la-ciudad-de-los-cuentos/)
+
+*Compilado de cuentos de mi autoría y de mi mamá Graciela.*
+
+[Cuentos del Dios del Tiempo](/cuentos/cuentos-del-dios-del-tiempo/)
+
+*Compilado de cuentos de mi autoría.*
