@@ -71,7 +71,7 @@ Leandro Oscar Ezequiel Díaz
 30. [Nuevo día](#nuevo-día)
 31. [Un día](#un-día)
 32. [Tiempos](#tiempos)
-33. [Último Shikan](#ultimo-shikan)
+33. [Último Shikan](#último-shikan)
 34. [Joven creativo](#joven-creativo)
 35. [Viajero](#viajero)
 36. [Ruka](#ruka)
@@ -100,8 +100,8 @@ Leandro Oscar Ezequiel Díaz
 56. [Bloques](#bloques)
 57. [Espacios](#espacios)
 58. [Estantes](#estantes)
-59. [Casa](#casa)
-60. [Relatos](#relatos)
+59. [Casa (2)](#casa-2)
+60. [Relatos (2)](#relatos-2)
 61. [La luna](#la-luna)
 62. [Nueva vida](#nueva-vida)
 63. [Viaje en el tiempo](#viaje-en-el-tiempo)
@@ -110,7 +110,7 @@ Leandro Oscar Ezequiel Díaz
 66. [Sucesos](#sucesos)
 67. [Awki (2)](#awki-2)
 68. [Vuelta](#vuelta)
-69. [Historia](#historia)
+69. [Historia (2)](#historia-2)
 70. [Anochecer](#anochecer)
 
 **Prefacio**
@@ -1543,11 +1543,11 @@ En lo alto de las montañas, en un bosque también. En la profundidad del mar y 
 
 Entre los estantes de la biblioteca un libro de historia, sólo uno. Mirando hacia afuera el mar. Las plantas de energía sub acuáticas cubren las profundidades. El sol apenas llega allí. No hay señal en esta zona, una conexión cableada rudimentaria provee la energía necesaria al bloque y lo mantiene activo. &quot;¿A dónde debo ir? ¿Qué más puedo hacer? La vida entre portales… la vida en un bloque… ¿Volver?&quot;
 
-## Casa
+## Casa (2)
 
 Se levanta del tronco donde descansaba y sigue un caminito hasta una pequeña casa de madera. Allí abre la puerta y entra. Recuerdos en las paredes con las fotografías. &quot;¿Por qué te fuiste Conductor? ¿Acaso la vida en este bosque no es mejor que el fondo del mar?&quot;
 
-## Relatos
+## Relatos (2)
 
 Hoy tengo que contar del viajero un relato, más que contarlo, vivirlo, ya que el destino lo puso a mi lado, o mejor dicho, a mí, un bibliotecario de C.I.U.D.A.D., me puso a su lado, viajando por el tiempo, para quién sabe qué fin, mejor aún, la máquina cero me trajo aquí quizás para subsanar un error o quizás porque tanto desee conocer lugares y a aquél que con tanta sencillez los describía como mágicos, que se ha hecho posible.
 
@@ -1751,7 +1751,7 @@ _Conductor – Shikan:_ &quot;Ahora sí.&quot;
 
 La máquina del tiempo fue llevada hasta la máquina cero, la biblioteca desde el fondo del mar fue llevada también hacia allí. Los libros, las máquinas, las anotaciones en cada una. &quot;El tiempo no podemos reparar&quot;, decían los Shikans. &quot;Tampoco es necesario&quot;, agregó Conductor.
 
-## Historia
+## Historia (2)
 
 Despierto desde temprano a conducir los portales. La vida en el bosque es sencilla y tranquila. En la C.I.U.D.A.D. hoy ciudad, como antes y como nunca, la vida es según cada quién allí viva.
 
