@@ -4,6 +4,28 @@ Leandro Oscar Ezequiel Diaz
 
 _&quot;La biblioteca del templo del tiempo tiene cuentos y manuscritos sobre la vida del dios del tiempo, para relajarse y disfrutar en las afueras, bajo las pérgolas y palmeras del desierto.&quot;_
 
+# Índice
+1. [El dios del tiempo](#el-dios-del-tiempo)
+2. [La estrella del tiempo](#la-estrella-del-tiempo)
+3. [Mismo tiempo](#mismo-tiempo)
+4. [El universo holograma](#el-universo-holograma)
+5. [Papeles dorados](#papeles-dorados)
+6. [En el empedrado encontré una moneda](#en-el-empedrado-encontré-una-moneda)
+7. [La forja](#la-forja)
+8. [Avenida nocturna](#avenida-nocturna)
+9. [La plaza de las venecitas](#la-plaza-de-las-venecitas)
+10. [Viento entre las cuerdas](#viento-entre-las-cuerdas)
+11. [La máquina humana](#la-máquina-humana)
+12. [Desde una estrella](#desde-una-estrella)
+13. [El viento marino](#el-viento-marino)
+14. [En un lugar sin sombras](#en-un-lugar-sin-sombras)
+15. [Biblioteca del templo del tiempo](#biblioteca-del-templo-del-tiempo)
+16. [Lucrecia](#lucrecia)
+17. [Laguna en el desierto](#laguna-en-el-desierto)
+18. [Pesadilla](#pesadilla)
+19. [Sueño futuro](#sueño-futuro)
+20. [Dos peces](#dos-peces)
+
 ## El dios del tiempo
 
 En el templo del tiempo, donde yo vivo, hay un salón grande, más largo que ancho, con paredes blancas relucientes, donde hay estantes a los lados como en un museo. Voy caminando cerca de aquellos estantes y los veo vacíos. No hay ningún libro, ninguna pintura o antigüedad que destaque, no tienen nada. Sigo caminando sin nada interesante que ver, más que el pulcro edificio. Al llegar al final del pasillo hay una máquina de dulces, que en su interior tiene alfajores y otros bocadillos que no me llaman mucho la atención. Al menos así lo recordé esta vez. Pero las otras veces que estuve aquí, bueno también estaba vacío, pero como yo era más pequeño, tenía muchas ganas de comer algún dulce de esa máquina y por alguna razón no pude. Como en un sueño fui trasladado hacia las afueras del templo, sin caminar ni moverme a voluntad, a la fuerza, una fuerza que actúa como un imán, llevándome al destino sin poder oponerme. Allí fuera estaba bajo el abrigo de una pérgola, con algunas pocas personas a mi lado. Mientras, en las afueras de las paredes arenosas que nos rodeaban, había una muchedumbre ruidosa, quejándose de quien sabe que, quejándose hacia donde yo me encontraba. Pero yo no hallaba la razón a aquella situación. Pasé toda mi vida en el templo, no conocía a nadie más que a los míos. ¿Quién podía tener quejas sobre mí? Pero no pude razonar, el &quot;imán&quot; hizo de las suyas de nuevo y me trasladó fuera del edificio, en medio de una guerra cruel, entre la gente del pueblo y mis sirvientes. Nada me afectaba. Las piedras volaban a mi alrededor sin tocarme, los puños fuertes resbalaban en mi cuerpo. Igual tenía miedo. Hasta que apareció de la nada una persona que reconocí como mi guardián, y me dijo:
