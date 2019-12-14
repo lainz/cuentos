@@ -6,6 +6,10 @@ Todos los derechos reservados. Si quieres compartir los cuentos envía el link, 
 ## Cuentos
 *Algunos de estos cuentos aparecen mas abajo en los compilados y algunos que me gustan mucho en mas de una ocasión.*
 
+[Fractalia](/cuentos/fractalia/)
+
+*En Fractalia todo es de color azul.*
+
 [Doble Mente](/cuentos/doble-mente/)
 
 *La lágrima de té se derramó sobre el mantel, mientras el resto chorreaba por el suelo. Que lástima, mi té verde. Todo por culpa de la doble mente.*
