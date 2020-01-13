@@ -42,9 +42,15 @@ Todos los derechos reservados. Si quieres compartir los cuentos envía el link, 
 
 *Estaba durmiendo y en un sueño andaba por las calles de la ciudad cubierta de lluvia. Andaba, pero no caminando, sino volando sobre los charcos y los pocos vehículos que circulaban de noche.*
 
+## Cuentos de Gra
+
 [En el camino de la vida](/cuentos/en-el-camino-de-la-vida)
 
 *Avanzo lentamente a plena luz del día por un camino extenso, rodeado de un frondoso bosque. Disfruto del paisaje que a lo largo del trayecto brinda a mi mirada flores, mariposas, variedad de arbolitos, un verde pasto y cascadas de agua que regocijan mi alma.*
+
+[Frivolité](/cuentos/frivolite)
+
+*Flor 5 Pétalos Frivolité. Mariposa en Frivolité. Estrella en Frivolité.*
 
 ## Libros y Compilados
 [Cuentos del Viajero del Tiempo](/cuentos/cuentos-del-viajero-del-tiempo/)
