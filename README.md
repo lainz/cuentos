@@ -6,6 +6,10 @@ Todos los derechos reservados. Si quieres compartir los cuentos envía el link, 
 ## Cuentos
 *Algunos de estos cuentos aparecen mas abajo en los compilados y algunos que me gustan mucho en mas de una ocasión.*
 
+[El Pacifista](/cuentos/el-pacifista/)
+
+*Era de noche y estaba jugando en la vereda con alguien como yo, de mí misma edad. Contando las baldosas, mirando los colores y adivinando cuál era su patrón, tanto que podía adivinarlo al ir avanzando por la vereda.*
+
 [Fractalia](/cuentos/fractalia/)
 
 *En Fractalia todo es de color azul.*
