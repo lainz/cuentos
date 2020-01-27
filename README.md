@@ -1,7 +1,5 @@
 # Cuentos de Lainz
-Bienvenido a mi página de cuentos breves... y no tan breves.
-
-Todos los derechos reservados. Si quieres compartir los cuentos envía el link, es de facil lectura en PC y en dispositivos móviles. Si quieres contactarte conmigo regístrate en GitHub y deja un comentario en el siguiente enlace: [Discusión sobre Cuentos de Lainz](https://github.com/lainz/cuentos/issues).
+Bienvenido a mi página de cuentos.
 
 ## Cuentos
 *Algunos de estos cuentos aparecen mas abajo en los compilados y algunos que me gustan mucho en mas de una ocasión.*
@@ -48,6 +46,8 @@ Todos los derechos reservados. Si quieres compartir los cuentos envía el link, 
 
 ## Cuentos de Gra
 
+Hay mas cuentos de Gra en la sección Libros y Compilados.
+
 [En el camino de la vida](/cuentos/en-el-camino-de-la-vida)
 
 *Avanzo lentamente a plena luz del día por un camino extenso, rodeado de un frondoso bosque. Disfruto del paisaje que a lo largo del trayecto brinda a mi mirada flores, mariposas, variedad de arbolitos, un verde pasto y cascadas de agua que regocijan mi alma.*
@@ -55,6 +55,10 @@ Todos los derechos reservados. Si quieres compartir los cuentos envía el link, 
 [Frivolité](/cuentos/frivolite)
 
 *Flor 5 Pétalos Frivolité. Mariposa en Frivolité. Estrella en Frivolité.*
+
+## Frases
+
+*¿Que se siente vivir en un mundo que está todo el tiempo moviéndose?* Damián Esteban Diaz.
 
 ## Libros y Compilados
 [Cuentos del Viajero del Tiempo](/cuentos/cuentos-del-viajero-del-tiempo/)
