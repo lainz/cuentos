@@ -1,6 +1,38 @@
 # Cuentos de Lainz
 Bienvenido a mi página de cuentos.
 
+## Cuentos en Red de Escritores
+
+[Engranajes](https://www.dunken.org/convocatoria/single.php?id=27804)
+
+[Hasta que todo pase](https://www.dunken.org/convocatoria/single.php?id=19423)
+
+[Los Sueños](https://www.dunken.org/convocatoria/single.php?id=17193)
+
+[El secreto del tiempo](https://www.dunken.org/convocatoria/single.php?id=14953)
+
+[El refugio del tiempo](https://www.dunken.org/convocatoria/single.php?id=9545)
+
+[Las colmenas](https://www.dunken.org/convocatoria/single.php?id=9256)
+
+[Entre reflejos y sombras](https://www.dunken.org/convocatoria/single.php?id=9255)
+
+[El universo holograma](https://www.dunken.org/convocatoria/single.php?id=9253)
+
+[Doble mente](https://www.dunken.org/convocatoria/single.php?id=9252)
+
+[El pacifista](https://www.dunken.org/convocatoria/single.php?id=9251)
+
+[Entre la vida y la muerte](https://www.dunken.org/convocatoria/single.php?id=9250)
+
+[Mismo tiempo](https://www.dunken.org/convocatoria/single.php?id=2317)
+
+[Fractalia](https://www.dunken.org/convocatoria/single.php?id=6591)
+
+[Las cadenas del tiempo](https://www.dunken.org/convocatoria/single.php?id=2318)
+
+[Camino](https://www.dunken.org/convocatoria/single.php?id=2315)
+
 ## Cuentos
 *Algunos de estos cuentos aparecen mas abajo en los compilados y algunos que me gustan mucho en mas de una ocasión.*
 
