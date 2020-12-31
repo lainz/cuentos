@@ -3,6 +3,10 @@ Bienvenido a mi página de cuentos.
 
 ## Cuentos en Red de Escritores
 
+[El Umbral](https://www.dunken.org/convocatoria/single.php?id=38379)
+
+[La Flor](https://www.dunken.org/convocatoria/single.php?id=38378)
+
 [Engranajes](https://www.dunken.org/convocatoria/single.php?id=27804)
 
 [Hasta que todo pase](https://www.dunken.org/convocatoria/single.php?id=19423)
