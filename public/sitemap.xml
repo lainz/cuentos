@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lainz.github.io/cuentos/</loc>
+    <lastmod>2021-01-09T21:49:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lainz.github.io/cuentos/posts/</loc>
+    <lastmod>2021-01-09T21:49:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lainz.github.io/cuentos/posts/treboles/</loc>
+    <lastmod>2021-01-09T21:49:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lainz.github.io/cuentos/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lainz.github.io/cuentos/tags/</loc>
+  </url>
+  
+</urlset>

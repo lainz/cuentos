@@ -1,0 +1,4 @@
+baseURL = "https://lainz.github.io/cuentos/"
+languageCode = "es-ar"
+title = "Cuentos de Lainz"
+theme = "ananke"
