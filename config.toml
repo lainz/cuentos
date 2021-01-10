@@ -3,6 +3,7 @@ languageCode = "es-ar"
 title = "Cuentos de Lainz"
 theme = "ananke"
 publishDir = "docs"
+googleAnalytics = "UA-53516302-4"
 
 [params]
 featured_image = "/images/dratun.jpg"

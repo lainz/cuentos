@@ -1,0 +1,20 @@
+---
+title: "Doble"
+date: 2021-01-10T10:32:52-03:00
+tags: []
+featured_image: ""
+description: ""
+---
+El día está nublado. Hace frío y estoy en una estación de trenes, no me gusta este lugar, no me gusta estar solo en un lugar tan feo. Hay un perro dando vueltas, un perro blanco y negro, es muy lindo, si yo tuviera un perro así… Hay vendedores por todos lados. A pesar de todo, hay un lugar muy lindo entre tanta oscuridad. Un lugar lleno de azulejos brillantes. Hay azulejos que son distintos, tienen agujeros, me da curiosidad saber que son. Toco uno de esos azulejos con mi dedo índice derecho. El azulejo se abre, se desintegra en miles de triángulos y todo lo demás alrededor desaparece. Yo ya no sé dónde estoy.
+
+El día está entre gris y soleado, se ve que llovió anoche. El andén está húmedo y al pisarlo suenan con mas fuerza mis pasos. Pero no todo esta tan normal. Estoy subido a una escalera de hierro oxidado, inclinada, apuntando hacia el techo de la estación, que lleva a la nada, no hay un lugar al que me pudiese llevar. Además, cuando llega el tren, la escalera sube y toca el techo, y cuando eso pasa la parte inferior de la escalera deja de tocar el suelo. No está sujeta a nada, como si flotara. Desde mas arriba de la escalera mi mamá me dice que se le escapó el perro. Evidentemente, un perro blanco y negro esta abajo dando vueltas en el andén. Ya subo a buscarlo. ¿Subo? Si, cuando subo la escalera termino abajo en el andén. Intento abrazar al perro, pero se escapa, entonces lo sigo. En la persecución, recorro varios negocios callejeros que parecen carpas. No encuentro al perro. Hay una pared llena de azulejos de colores brillantes, y me comentan que cada tantos hay un pequeño agujero que conecta con un lugar especial en el universo. Pasa apurado alguien con unos cuantos azulejos en sus manos, escapando de alguien más, va por dónde va el perro así que volví a encontrarlo. Abrazo al perro y busco un colectivo para volver a casa.
+
+Me persiguen. Tengo unos cuantos azulejos brillantes en mi mano y no van a parar hasta atraparme. Mientras corro algunos van cayendo al suelo y desapareciendo mientras me alejo. Paso entre los negocios de la estación de trenes y veo un palacio de azulejos, pero no puedo detenerme. Además, por pasar por allí ahora un perro me persigue. Un perro blanco y negro que no tiene nada mejor que hacer. Un precipicio en medio de la ciudad me toma por sorpresa. Adiós azulejos brillantes.
+
+Reporto, encontré los azulejos, los tiré mientras iba corriendo, los tiré hace un año y ahora los vuelvo a encontrar, los había perdido mientras yo me perseguía a mi mismo.
+
+Todo parecía normal en este día. Todo menos aquel que se divide a si mismo a través del tiempo para recorrer la ciudad una y otra vez. Jugando a ser niño curioso, ladrón y policía, dueño de un perro y maquinista del tren. Se ve que le gustan los días nublados, porque se pasa su vida en este día, en vez de dejar fluir el tiempo como lo hacen los demás. Se choca consigo mismo, se asombra de las cosas que tendrá y perderá, las cosas que le traen problemas y las cosas que lo hacen feliz.
+
+Si tan solo recordara la primera vez que estuve aquí… Podría salir finalmente, o quedarme para siempre, dependiendo de la primera impresión que me hubiese causado este lugar. Son tantas las memorias que se superponen… La estación está irreconocible, las escaleras a la nada se multiplican, el palacio de azulejos ya no tiene azulejos, los negocios están vacíos. Mi perro está en casa, eso por suerte está bien. Pero este lugar, ya no es todo lo que fue. Ya no tengo nada mas que aprender aquí, ya alcancé el límite. Ya es hora de volver a casa.
+
+Entonces los azulejos volvieron a su lugar, las escaleras desaparecieron, el perro volvió al andén, los negocios abrieron y empezó a llover. Se hizo de noche, había pasado solo un día y a la vez toda una vida. Esto solo será un recuerdo, pero ya no volveré.
