@@ -7,3 +7,4 @@ googleAnalytics = "UA-53516302-4"
 
 [params]
 featured_image = "/images/dratun.jpg"
+recent_posts_number = 100
