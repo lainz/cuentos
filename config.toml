@@ -3,3 +3,6 @@ languageCode = "es-ar"
 title = "Cuentos de Lainz"
 theme = "ananke"
 publishDir = "docs"
+
+[params]
+featured_image = "/images/dratun.jpg"
