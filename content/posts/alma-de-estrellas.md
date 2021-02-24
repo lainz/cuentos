@@ -89,7 +89,7 @@ Another soul of stars
 
 Was looking at me.
 
-Like light in the sky
+Like light in their sky
 
 Like a wandering sun.
 
@@ -99,4 +99,4 @@ Not for themselves
 
 But for the souls
 
-That keep them inside.
+That treasure them inside.
