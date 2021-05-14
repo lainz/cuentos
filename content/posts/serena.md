@@ -12,7 +12,7 @@ Junto al acorde.
 
 Resuena tu guitarra,
 
-La música vivra alegre.
+La música vibra alegre.
 
 Tu alma danza al cantar, 
 
